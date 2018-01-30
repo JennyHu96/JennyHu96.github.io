@@ -1,6 +1,6 @@
 ---
 layout: default
-math: true
+mathjax: true
 ---
 
 This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Prof. Xi Lin's group</a> at Peking University.
