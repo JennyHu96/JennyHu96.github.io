@@ -3,9 +3,8 @@ layout: default
 title: Contact
 ---
 
-<div style="float: left; display:inline">
+<div style="float: left">
 	<img src="./bunnie1.jpg" width="550px" style="vertical-align:middle;">
-	<!-- <br/>Her Boyfriend -->
 </div>
 <div style="width=300px; float: right">
 	<h4>Jingjin Hu (胡京津)</h4>
@@ -16,4 +15,4 @@ title: Contact
 </div>
 
 <div style="clear:both"></div> 
-<!-- <span>.</span> -->
+
