@@ -1,8 +1,9 @@
 title: Jingjin Hu's Homepage
-# description: Cayman is a clean, responsive theme for GitHub Pages.
+description: 
 show_downloads: false
 theme: 
 github:
   is_project_page: false
+  # project_tagline:
 
 exclude: [README.md]

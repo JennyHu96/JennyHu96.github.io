@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Projects
 mathjax: true
-isnt_home: true
+is_home: false
 ---
 ## Current Projects
 
