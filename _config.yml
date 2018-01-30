@@ -1,9 +1,9 @@
 title: Jingjin Hu's Homepage
-description: 
+description:
 show_downloads: false
 theme: 
 github:
   is_project_page: false
-  # project_tagline:
+  project_tagline:
 
 exclude: [README.md]
