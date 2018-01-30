@@ -3,11 +3,11 @@ layout: default
 title: Contact
 ---
 
-<div style="float: left">
+<div style="float: left; display:inline">
 	<img src="./bunnie1.jpg" width="550px" style="vertical-align:middle;">
 	<!-- <br/>Her Boyfriend -->
 </div>
-<div style="width=300px; float: right; display:inline">
+<div style="width=300px; float: right">
 	<ul>
 		<h4>Jingjin Hu (胡京津)</h4>
 		<li><a href="mailto:jennyhu@pku.edu.cn">email: jennyhu@pku.edu.cn</a></li>
@@ -17,5 +17,5 @@ title: Contact
 	</ul>
 </div>
 
-<!-- <div style="clear:both"></div>  -->
+<div style="clear:both"></div> 
 <!-- <span>.</span> -->
