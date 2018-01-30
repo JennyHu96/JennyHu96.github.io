@@ -11,6 +11,7 @@ title: Contact
 	</ul>
 </div>
 <div style="width:400px; height:auto; float:right; display:inline">
-	<img src="./bunnybunny.jpg" width="300px" style="vertical-align:middle;">
+	<img src="./bunnybunny.jpg" width="150px" style="vertical-align:middle;">
 	<br/>Her Boyfriend
 </div>
+
