@@ -23,7 +23,11 @@
       <a href="./" class="btn">Home</a>
       <a href="./#Projects" class="btn">Projects</a>
       <a href="./contact" class="btn">Contact</a>
-      <!-- <a href="#"> -->
+      {% if page.usemathjax %}
+      <script type="text/javascript" async
+       src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+      {% end if %}
     </section>
 
     <section class="main-content">
