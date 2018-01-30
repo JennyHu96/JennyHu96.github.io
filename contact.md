@@ -9,7 +9,5 @@ title: Contact
 		<li>tel: </li>
 	</ul>
 </div>
-<div class="one-half last">
-	<img src="bunnybunny.jpg" width=150px height=200px>
-	<br/>Her Boyfriend
-</div>
+<img src="bunnybunny.jpg" width=150px height=200px>
+<!-- <br/>Her Boyfriend -->
