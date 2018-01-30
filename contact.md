@@ -11,4 +11,5 @@ title: Contact
 </div>
 <div class="one-half last">
 	<img src="bunnybunny.jpg" width=150px height=200px>
+	<br/>Her Boyfriend
 </div>
