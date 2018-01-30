@@ -1,6 +1,6 @@
 ---
 layout: default
-mathjax: true
+<!-- mathjax: true -->
 ---
 
 This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Prof. Xi Lin's group</a> at Peking University.
@@ -19,3 +19,12 @@ This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicis
 ## Previous Projects
 
 * 1.8 K $x_1$ jax?
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
