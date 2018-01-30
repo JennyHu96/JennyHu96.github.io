@@ -2,6 +2,7 @@
 layout: default
 title: testMathJax
 category: BuildLog
+usemathjax: true
 ---
 ### Hello World
 Testing MathJax $$\mathrm{i}\mathcal{H}|\psi\rangle$$.
