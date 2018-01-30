@@ -24,12 +24,15 @@
       <a href="{{ site.homurl }}/#Projects" class="btn">Projects</a>
       <a href="{{ site.homurl }}/contact" class="btn">Contact</a>
       <!-- <a href="#"> -->
-    </section>
-
-    <section class="main-content">
+      <!-- in _layouts/default.html, before {{ content }} -->
+      {% if page.usemathjax %}
       <script type="text/javascript"
           src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
       </script>
+      {% endif %}
+    </section>
+
+    <section class="main-content">
       {{ content }}
 
       <footer class="site-footer">
