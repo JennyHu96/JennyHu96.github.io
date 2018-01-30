@@ -2,7 +2,7 @@
 layout: default
 title: test
 category: junk
-isnt_home: true
 ---
 ### Hello World
 Testing Posts.
+$$x_1^2=\alpha$$
