@@ -1,16 +1,18 @@
 ---
 layout: default
-is_home: false
 ---
 
-This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. Currently she is in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Lin's group</a> at Peking University.
+This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Lin's group</a> at Peking University.
 
-<h3>Research Interests</h3>
+# Research Interests
 * Low temperature electronic transport;
 * Novel material.
 
-<h3>Current Projects</h3>
+# Projects
+
+## Current Projects
+
 * 2 dimensional electron gas (2DEG) on liquid Helium.
 * Electronic transport in factal structures.
 
-[another?](another-page)
+## Previous Projects
