@@ -1,8 +1,10 @@
 ---
 layout: default
-title: test
+title: testMathJax
 category: junk
 ---
 ### Hello World
-Testing Posts.
+Testing MathJax $|\psi\rangle$.
+
 $$x_1^2=\alpha$$
+
