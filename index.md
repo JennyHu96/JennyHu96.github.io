@@ -1,6 +1,6 @@
 ---
 layout: default
-usemathjax: true
+<!-- usemathjax: true -->
 ---
 
 This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Prof. Xi Lin's group</a> at Peking University.
@@ -14,8 +14,8 @@ This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicis
 ## Current Projects
 
 * 2 dimensional electron gas (2DEG) on liquid Helium.
-* Electronic transport in factal structures.
+* [Electronic transport in factal structures.](_post/2018-01-30-helloworld)
 
 ## Previous Projects
 
-* $\alpha$
+* $\alpha$ is alpha
