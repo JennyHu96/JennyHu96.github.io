@@ -9,6 +9,10 @@ Testing MathJax $$\mathrm{i}\mathcal{H}|\psi\rangle$$.
 
 $$x_1^2=\alpha$$
 
+\begin{equation}
+\oiint_\Sigma \mathbf{B}\cdot \mathrm{d}\mathbf{S} = 0
+\end{equation}
+
 ```html
 <!-- Add in _layouts/default.html, before {{ content }} -->
 \{% if page.usemathjax %\}
