@@ -2,13 +2,13 @@
 layout: default
 ---
 
-This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Lin's group</a> at Peking University.
+This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicist. She is currently in <a href="http://www.phy.pku.edu.cn/~xilin/index.html"> Prof. Xi Lin's group</a> at Peking University.
 
 # Research Interests
 * Low temperature electronic transport;
 * Novel material.
 
-<a name="#Projects"> <h1>Projects</h1> </a>
+<h1><a name="#Projects">Projects</a></h1>
 
 ## Current Projects
 
