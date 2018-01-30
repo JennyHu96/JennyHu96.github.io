@@ -18,7 +18,7 @@ This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicis
 
 ## Previous Projects
 
-* 1.8 K $x_1$ jax?
+* 1.8K refrigerator.
 
 <div id="home">
   <h1>Blog Posts</h1>
