@@ -7,9 +7,8 @@ usemathjax: true
 ### Hello World
 Testing MathJax $$\mathrm{i}\mathcal{H}|\psi\rangle$$.
 
-<!-- $$x_1^2=\alpha$$ -->
 
-$$\oiint_\Sigma \mathbf{B}\cdot \mathrm{d}\mathbf{S} = 0$$
+$$\oint_\Sigma \mathbf{B}\cdot \mathrm{d}\mathbf{S} = 0$$
 
 ```html
 <!-- Add in _layouts/default.html, before {{ content }}. With if page.usemathjax conditioned-->
