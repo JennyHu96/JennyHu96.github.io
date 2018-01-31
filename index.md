@@ -13,13 +13,18 @@ This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicis
 
 ## Current Projects
 
-<li>
+<div style="float: left">
 <a href="projects/2DEG">
 	<img src="images/2DEG/IMG_0118.PNG" width="400px">
-	2D electron gas (2DEG) on liquid Helium.
+	</br>2D electron gas (2DEG) on liquid Helium.
 </a>
-</li>
-* Electronic transport in factal structures.
+</div>
+<div style="float: right">
+<a href="projects/factal">
+	<img src="images/factal/menger_large.png" width="400px">
+	</br>Electronic transport in factal structures.
+</a>
+</div>
 
 ## Previous Projects
 
