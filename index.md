@@ -13,12 +13,17 @@ This site belongs to Jing-Jin Hu (胡京津) , a young condensed-matter physicis
 
 ## Current Projects
 
-* 2 dimensional electron gas (2DEG) on liquid Helium.
+<li>
+<a href="projects/2DEG">
+	<img src="images/2DEG/IMG_0118.PNG" width="400px">
+	2D electron gas (2DEG) on liquid Helium.
+</a>
+</li>
 * Electronic transport in factal structures.
 
 ## Previous Projects
 
-* 1.8K refrigerator. $$\alpha$$
+* 1.8K refrigerator. 
 
 <h1>Building Blog</h1>
   <ul class="posts">
